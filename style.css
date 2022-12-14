@@ -1,0 +1,31 @@
+header .header {
+    width: 100%;
+    height: 400px;
+    background-image: url(/Users/hw22a054/Desktop/GoogleDrive/my_program/sample/WEBCAMP課題/HTML_CSS_kadai7/img/mv.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.wc-logo {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.web-site {
+    position: relative;
+    bottom: 15px;
+}
+
+.wcc-logo {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.wcw-logo {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.last {
+    margin-bottom: 50px;
+}
